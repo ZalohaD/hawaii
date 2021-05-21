@@ -55,7 +55,7 @@ tl.fromTo(".theme",{
     y: "0%",
     visibilty: "visible"
 },"-=1.5");
-tl.fromTo(".social , .ul",{
+tl.fromTo(".social , .a",{
     y: "100%",
     opacity: 0
 },{

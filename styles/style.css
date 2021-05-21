@@ -141,8 +141,10 @@ header ul li a{
 .social a{
     color: black;
     font-family: 'Monument';
-    font-size: 10px;
+    font-size: 15px;
     font-weight: lighter;
+    text-decoration: none;
+
 
 }
 .theme{
@@ -315,6 +317,7 @@ section a{
     }
 }
 .credit a{
+    font-size: 18px;
     color: gray;
     text-decoration: none;
 }
